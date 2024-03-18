@@ -674,7 +674,7 @@ msgstr "Skin Version"
 
 msgctxt "#31459"
 msgid "Kodi Version"
-msgstr "Kodi Version"
+msgstr "Software Version"
 
 msgctxt "#31460"
 msgid "Quick Navigation"
@@ -698,7 +698,7 @@ msgstr "Home"
 
 msgctxt "#31525"
 msgid "Search Kodi for"
-msgstr "Search Kodi for"
+msgstr "Search for"
 
 msgctxt "#31550"
 msgid "Spotlight"
